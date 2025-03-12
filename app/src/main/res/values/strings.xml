@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppGeradorQECode</string>
+    <string name="gerador_de_qr_code">Gerador de QR Code</string>
+    <string name="cole_ou_digite_aqui_seu_link">Cole ou digite aqui seu link</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="gerar">Gerar</string>
 </resources>
